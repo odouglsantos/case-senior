@@ -1,8 +1,7 @@
-package com.ecommerce
+package com.ecommerce.withkotlin
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import org.junit.jupiter.api.DisplayName
 
 class OrderServiceTest {
 

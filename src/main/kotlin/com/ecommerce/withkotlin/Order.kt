@@ -1,4 +1,4 @@
-package com.ecommerce
+package com.ecommerce.withkotlin
 
 data class Order(
     val id: String,
